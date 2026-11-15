@@ -1,10 +1,9 @@
 {
-  "versione": "0.5.5",
+  "versione": "0.5.6",
   "novita": [
-    "Intro, coda, canzone e momenti: anche trascinando il file",
-    "Un secondo clic sull'icona porta davanti la finestra aperta",
-    "Più controlli: nome del passeggero, spazio sul disco, montaggio fermo"
+    "Intro e coda: un video o una foto, tutte e due",
+    "Un file che non va bene: il programma lo dice"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.5.exe",
-  "sha256": "418241185ff024246d3293bc51814a63e6154f258d549a97bae2d3fcf0b9bba5"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.6.exe",
+  "sha256": "df253b98d1aa65bfb0e95ca485a3ad0c250f7d685d07b454a2c4353b01bfb28c"
 }
