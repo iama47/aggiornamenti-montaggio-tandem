@@ -1,8 +1,8 @@
 {
-  "versione": "0.5.3",
+  "versione": "0.5.4",
   "novita": [
-    "Aggiornamento automatico"
+    "Alla prima apertura: prima il profilo, poi la scheda"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.3.exe",
-  "sha256": "8558499f1d08c12022a1f5c92ada5ff4557646b59664645722d6d6d62fdd5a03"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.4.exe",
+  "sha256": "352a2c57cecf6b733a7162f9224dd139d031d0ff9a1c3c922045bc278677f4a2"
 }
