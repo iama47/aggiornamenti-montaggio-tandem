@@ -1,8 +1,10 @@
 {
-  "versione": "0.5.4",
+  "versione": "0.5.5",
   "novita": [
-    "Alla prima apertura: prima il profilo, poi la scheda"
+    "Intro, coda, canzone e momenti: anche trascinando il file",
+    "Un secondo clic sull'icona porta davanti la finestra aperta",
+    "Più controlli: nome del passeggero, spazio sul disco, montaggio fermo"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.4.exe",
-  "sha256": "352a2c57cecf6b733a7162f9224dd139d031d0ff9a1c3c922045bc278677f4a2"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.5.exe",
+  "sha256": "418241185ff024246d3293bc51814a63e6154f258d549a97bae2d3fcf0b9bba5"
 }
