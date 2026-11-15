@@ -1,4 +1,8 @@
 {
-  "versione": "0.5",
-  "novita": []
+  "versione": "0.5.3",
+  "novita": [
+    "Aggiornamento automatico"
+  ],
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.3.exe",
+  "sha256": "8558499f1d08c12022a1f5c92ada5ff4557646b59664645722d6d6d62fdd5a03"
 }
