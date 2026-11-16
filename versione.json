@@ -1,9 +1,11 @@
 {
-  "versione": "0.5.7",
+  "versione": "0.5.8",
   "novita": [
-    "Senza scheda lo schermo resta spento: si accende solo quello che serve",
-    "L'intro presa da un video della camera non ferma più il montaggio"
+    "Foto e handcam si salvano anche senza video",
+    "Una scheda inserita aspetta il tuo via: si sceglie nel profilo",
+    "L'audio originale si sente anche nell'anteprima",
+    "Sul video finito la barra spaziatrice ferma solo quello"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.7.exe",
-  "sha256": "715d2d5e6843eba15d76b6f65999e69dd69a0ec9b090e31e9f12433c3ebab0b3"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.8.exe",
+  "sha256": "1881c26d86c141ebc55021d75c328dc5c04131533a197f70936cd11396c6fc51"
 }
