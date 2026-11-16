@@ -1,9 +1,9 @@
 {
-  "versione": "0.5.6",
+  "versione": "0.5.7",
   "novita": [
-    "Intro e coda: un video o una foto, tutte e due",
-    "Un file che non va bene: il programma lo dice"
+    "Senza scheda lo schermo resta spento: si accende solo quello che serve",
+    "L'intro presa da un video della camera non ferma più il montaggio"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.6.exe",
-  "sha256": "df253b98d1aa65bfb0e95ca485a3ad0c250f7d685d07b454a2c4353b01bfb28c"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.7.exe",
+  "sha256": "715d2d5e6843eba15d76b6f65999e69dd69a0ec9b090e31e9f12433c3ebab0b3"
 }
