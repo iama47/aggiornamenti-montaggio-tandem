@@ -1,11 +1,11 @@
 {
-  "versione": "0.5.8",
+  "versione": "0.5.9",
   "novita": [
-    "Foto e handcam si salvano anche senza video",
-    "Una scheda inserita aspetta il tuo via: si sceglie nel profilo",
-    "L'audio originale si sente anche nell'anteprima",
-    "Sul video finito la barra spaziatrice ferma solo quello"
+    "Foto più grandi nella vista delle foto",
+    "Foto a schermo intero, per farle vedere al cliente",
+    "Una scheda tolta e rimessa chiede di nuovo il via",
+    "Dopo lo standby il programma resta acceso"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.8.exe",
-  "sha256": "1881c26d86c141ebc55021d75c328dc5c04131533a197f70936cd11396c6fc51"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.9.exe",
+  "sha256": "32e2807c2cd678de70a33abf92eaac503a91a7cb7728722e04abd598ce84d114"
 }
