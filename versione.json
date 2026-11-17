@@ -1,11 +1,11 @@
 {
-  "versione": "0.5.10",
+  "versione": "0.5.11",
   "novita": [
+    "Nel profilo le scritte del titolo si leggono: grandi, solo loro",
     "Icona nuova: il play è anche una manica a vento",
     "Profilo più ordinato: Titolo, Video, Schede e Copia",
-    "Copia di quello che consegni anche su questo dispositivo",
-    "Manica a vento dell’attesa nei colori del logo"
+    "Copia di quello che consegni anche su questo dispositivo"
   ],
-  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.10.exe",
-  "sha256": "90a7ff2f2ff017911cb31654cfa8bd306ad6a87b7cb68e837a3ee06f78fb32c3"
+  "aggiornamento": "https://raw.githubusercontent.com/iama47/aggiornamenti-montaggio-tandem/main/ExitCut-Aggiornamento-0.5.11.exe",
+  "sha256": "0dfb5ca87a2661a74d5a7804688d2f844447c3c2285b1e804f52d760ca23c6de"
 }
